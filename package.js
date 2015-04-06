@@ -1,7 +1,7 @@
 Package.describe({
     name: 'risul:busboy',
     summary: 'Meteor package for Node.js busboy module',
-    version: '0.0.1',
+    version: '0.0.2',
     git: 'https://github.com/risul/meteor-busboy'
 });
 

@@ -10,19 +10,6 @@ Install
 meteor add risul:busboy
 ```
 
-Configuration
------
-Add mailgun settings to your settings.json or METEOR_SETTINGS env variable containing all settings as JSON
-
-```json
-{
-    "mailgun": {
-            "key": "key-XXXXXXXXXXXXXXXXXXXXXXX",
-            "domain": "example.com"
-        }
-}
-```
-
 Usage
 -----
 Multipart POST request does not work on Iron Router after 1.0.0.
